@@ -50,3 +50,5 @@ Thanks for sticking around!
 We go again tomorrow!
 
 To consistency!
+
+- Tuesday, 22 September 2026
