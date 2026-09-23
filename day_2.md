@@ -39,7 +39,7 @@ height = 9.33 # float
 is_friendly = True # boolean
 
 # Lists
-all_types_list = [1.42, 2.31, "him, "1.76, "her", 5.22, True, 3.20, 7.23, 200]
+all_types_list = [1.42, 2.31, "him", "1.76", "her", 5.22, True, 3.20, 7.23, 200]
 
 list_of_lists = [
     ["bedroom", 23.4],
