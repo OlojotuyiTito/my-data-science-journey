@@ -33,7 +33,7 @@ plt.ylabel("Life Expectancy")
 
 plt.xscale('log')
 
-plt.yticks([0, 2, 4, 6, 8, 10], ["0B", "2B", "4B", "6B", "8B, "10B"])
+plt.yticks([0, 2, 4, 6, 8, 10], ["0B", "2B", "4B", "6B", "8B", "10B"])
 plt.xticks([1000, 10000, 100000], ["1K", "10K", "100K"])
 
 plt.title("The title of the visualisation")
