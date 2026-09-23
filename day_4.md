@@ -38,7 +38,7 @@ print(np_expanded_list[:, 0]) # prints out all the values in the first column
 # Some basic summary statistics using NumPy
 the_mean_age = np.mean(np_expanded_list[:, 1])
 the_median_height = np.median(np_expanded_list[:, 0])
-the_standard_deviation_of_ages = np.std(np_expamded_list[:, 1])
+the_standard_deviation_of_ages = np.std(np_expanded_list[:, 1])
 the_correlation_between_age_and_height = np.corrcoef(np_expanded_list[:, 0], np_expanded_list[:, 1])
 ```
 
