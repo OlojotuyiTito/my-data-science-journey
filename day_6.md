@@ -1,4 +1,4 @@
-# Day 5 - DS Journey
+# Day 6 - DS Journey
 
 Today I learnt the basics of Dictionaries and Pandas
 
